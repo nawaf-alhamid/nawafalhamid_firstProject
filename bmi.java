@@ -4,10 +4,10 @@ public class bmi {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 Scanner input = new Scanner(System.in);
-double a = 2.5;
+double n = 2.5;
 System.out.println(2 * (5 / 2 + 5 / 2));
-a+= a ;
-System.out.println(a);
+n+= n ;
+System.out.println(n);
 System.out.print("weight:");
 
 double weiht= input.nextDouble();
